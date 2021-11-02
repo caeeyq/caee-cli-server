@@ -1,0 +1,18 @@
+{
+  "version": "2.0",
+  "envId": "caee-0gng86wh4c820557",
+  "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
+  "framework": {
+    "name": "caee-cli-server",
+    "plugins": {
+      "node": {
+        "use": "@cloudbase/framework-plugin-node",
+        "inputs": {
+          "entry": "app.js",
+          "name": "caee-cli-server",
+          "path": "/caee-cli"
+        }
+      }
+    }
+  }
+}
