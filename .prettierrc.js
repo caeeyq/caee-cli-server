@@ -10,5 +10,5 @@ module.exports = {
   rangeStart: 0,
   rangeEnd: Infinity,
   proseWrap: 'preserve',
-  endOfLine: 'lf'
-}
+  endOfLine: 'lf',
+};
